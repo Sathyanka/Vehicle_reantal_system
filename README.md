@@ -7,4 +7,4 @@ Vehical Rental System using java and MySQL database project. it is used to store
 ![dashboard](dashboard.PNG)
 <br>
 <br>
-![vehicl register](vehicle register.PNG)
+![vehicl register](vehicl register.PNG)
